@@ -5,4 +5,6 @@ Code is still not completely bug free and here and there are some hardcoded valu
 
 It REQUIRES hmf package (with CAMB) for calculating halo mass function and linear power spectrum. See more at: http://hmf.icrar.org or https://github.com/steven-murray/hmf This piece of code works with hmf version 1.7.0
 
+For questions, please don't hesitate to contact me on: dvornik@strw.leidenuniv.nl
+
 
